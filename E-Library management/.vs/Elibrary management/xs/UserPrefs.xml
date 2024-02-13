@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{33912AB8-C001-4F36-8F66-39FA93B73581}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="adminmembermanagement.aspx">
+    <Files>
+      <File FileName="adminloginpage.aspx" />
+      <File FileName="Web.config" Line="1" Column="1" />
+      <File FileName="adminmembermanagement.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Elibrary management" expanded="True">
+            <Node name="Elibrary management" expanded="True">
+              <Node name="adminmembermanagement.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Elibrary_220management PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

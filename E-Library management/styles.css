@@ -1,0 +1,45 @@
+﻿body {
+    background-color:#ececec;
+}
+
+.header{
+    background-color:orange;
+  
+}
+
+.header a:link{
+    font-size:20px;
+}
+
+
+.elib{
+    background-color:rgba(30, 55, 96, 0.966);
+    margin-bottom:20px;
+}
+
+.elib h3{
+    text-align:center;
+    margin-bottom:0;
+    font-size:30px;
+    color:rgba(255, 255, 255, 0.748);
+    padding:3px;
+    font-weight:600;
+}
+
+.home-img{
+    margin-bottom:60px;
+}
+
+.features{
+    margin-bottom:60px;
+}
+
+.process{
+    margin-bottom:80px;
+}
+
+.btm{
+    background:rgba(30, 55, 96, 0.966);
+}
+
+
